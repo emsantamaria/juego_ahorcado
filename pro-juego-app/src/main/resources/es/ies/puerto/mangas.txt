@@ -1,0 +1,7 @@
+[Shonen, Accion, Combates],Dragon Ball Super,En publicacion,104,Akira Toriyama,Toyotaro,https://mangaplus.shueisha.co.jp/titles/200025,src/main/resources/images/dragonBall.jpeg
+[Shonen, Accion, Combates],Naruto,Concluida,276,Masashi Kishimoto,Masashi Kishimoto,https://mangaplus.shueisha.co.jp/titles/200001,src/main/resources/images/naruto.jpeg
+[Shonen, Accion, Aventura],One Piece,En publicacion,1142,Eichiro Oda,Eichiro Oda,https://mangaplus.shueisha.co.jp/titles/200016,src/main/resources/images/one piece.jpeg
+[Seinen, Accion, Accion Oscura],ClayMore,Concluida,155,Norihiro Yagi,Norihiro Yagi,https://mangaplus.shueisha.co.jp/titles/200005,src/main/resources/images/claymore.jpg
+[Seinen, Accion, Futurista, Accion Oscura],Akira No Yume,Detenida,22,DinoWaos,DinoWaos,https://medibang.com/mpc/authors/25017367/,src/main/resources/images/akiraNoYume.jpg
+[Shonen, Misterio, Horror],Death Note,Concluida,108,Tsugumi Obha,Takeshi Obata,https://mangaplus.shueisha.co.jp/titles/200009,src/main/resources/images/deathnote.jpeg
+[Shonen, Romance, Accion],Dandadan,En publicacion,186,Yukinobu Tatsu,Yukinobu Tatsu,https://mangaplus.shueisha.co.jp/titles/100171,src/main/resources/images/dandadan.jpeg

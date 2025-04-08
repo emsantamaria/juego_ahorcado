@@ -1,0 +1,15 @@
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/controller/LoginController.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/controller/RecoverPasswordController.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/PrincipalApplication.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/controller/PerfilController.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/controller/UsuariosController.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/model/Bbdd.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/servicio/UsuarioServicio.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/model/Palabras.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/module-info.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/model/Usuario.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/model/Palabra.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/controller/RegistroController.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/controller/abstractas/AbstractController.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/model/Usuarios.java
+/home/dam/Escritorio/pro-juego-app/src/main/java/es/ies/puerto/controller/GameController.java
