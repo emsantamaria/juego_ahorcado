@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="TOP_CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="742.0" prefWidth="605.0" spacing="20.0" style="-fx-background-color: lightblue;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="es.ies.puerto.controller.LoginController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+    </padding>
+    <Button alignment="TOP_CENTER" onAction="#recoverPassoword" prefHeight="26.0" prefWidth="163.0" style="-fx-background-color: gray; -fx-border-color: black;" text="Recover Password" textAlignment="CENTER" />
+   <ComboBox fx:id="comboIdioma" onAction="#cambiarIdioma" prefWidth="150.0" promptText="Idioma" />
+   <Text fx:id="textUsuario" strokeType="OUTSIDE" strokeWidth="0.0" text="Usuario:" />
+   <TextField fx:id="textFieldUsuario" maxHeight="-Infinity" prefHeight="24.0" prefWidth="353.0">
+      <VBox.margin>
+         <Insets />
+      </VBox.margin></TextField>
+   <Text fx:id="textContrasenia" strokeType="OUTSIDE" strokeWidth="0.0" text="Contraseña" />
+   <PasswordField fx:id="textFieldPassword" />
+    <Button alignment="TOP_CENTER" onAction="#onLoginButtonClick" prefHeight="26.0" prefWidth="163.0" style="-fx-background-color: gray; -fx-border-color: black;" text="Aceptar" textAlignment="CENTER" />
+   <Text fx:id="textFieldMensaje" strokeType="OUTSIDE" strokeWidth="0.0" text="   " />
+   <Button fx:id="mostrarButton" alignment="TOP_CENTER" onAction="#onClickMostrar" prefHeight="26.0" prefWidth="163.0" style="-fx-background-color: gray; -fx-border-color: black;" text="Mostrar Usuarios" textAlignment="CENTER" />
+   <Button fx:id="openRegistrarButton" mnemonicParsing="false" onAction="#openRegistrarClick" style="-fx-background-color: gray; -fx-border-color: black;" text="Registrarse" />
+</VBox>

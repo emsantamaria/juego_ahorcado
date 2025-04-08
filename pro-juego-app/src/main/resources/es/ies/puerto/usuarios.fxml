@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<VBox alignment="CENTER" prefHeight="533.0" prefWidth="353.0" spacing="20.0" style="-fx-background-color: lightblue; -fx-border-color: gold; -fx-border-width: 6;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="es.ies.puerto.controller.UsuariosController">
+<Button fx:id="goBack" onAction="#goBack" style="-fx-background-color: gray; -fx-border-color: black;" text="Go Back" />
+<Button fx:id="buttonAnterior" onAction="#anterior" style="-fx-background-color: gray; -fx-border-color: black;" text="anterior" />
+    <Text fx:id="text1" />
+   <Text fx:id="text2" text=" " />
+   <Text fx:id="text3" />
+   <Text fx:id="text4" text=" " />
+   <Text fx:id="text5" />
+   <Button fx:id="buttonSiguiente" onAction="#siguiente" style="-fx-background-color: gray; -fx-border-color: black;" text="siguiente" />
+</VBox>
